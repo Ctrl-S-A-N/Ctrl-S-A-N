@@ -30,7 +30,7 @@ Machine Learning • Deep Learning • Neural Networks • Computer Vision • N
 
 ### Frameworks & Libraries
 
-PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy • Streamlit • Flask • FastAPI • Plotly • Matplotlib
+PyTorch • TensorFlow • Scikit-learn • Seaborn • Pandas • NumPy • Streamlit • Flask • FastAPI • Plotly • Matplotlib
 
 ### Data Analytics & Visualization
 
