@@ -121,7 +121,7 @@ Developed a machine learning based business intelligence platform capable of ana
 
 💼 LinkedIn: Sanyam .(www.linkedin.com/in/sanyam-42a91028b)
 
-🌐 Portfolio: Clock it dude 🤏🏼(https://ctrl-s-a-n.github.io/PORTFOLIO/)
+🌐 Portfolio: Clock it dude 🤏🏼(https://portfolio-vzsd.onrender.com/)
 
 🐙 GitHub: Ctrl-S-A-N(https://github.com/Ctrl-S-A-N)
 
