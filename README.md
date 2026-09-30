@@ -57,7 +57,7 @@ From developing AI-powered applications and experimenting with multimodal archit
 
 I'm equally passionate about sharing knowledge, collaborating with people, and building things that have a purpose beyond the screen.
 
-<table>
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
